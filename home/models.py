@@ -4,6 +4,7 @@ from django.db import models
 class trial(models.Model):
     title =models.CharField(max_length=225)
     author =models.CharField(max_length=45)
+    email =models.EmailField(max_length=100,default='example@gmil.com')
     age =models.IntegerField()
     content =models.TextField()
     thumbnail =models.ImageField(upload_to="thumbnail/",default="default.png")
