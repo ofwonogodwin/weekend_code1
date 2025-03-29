@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(216, 225, 233);
+}
+header{
+    background-color: rgb(12, 12, 45);
+}
+a{
+    padding: 30px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 40px;
+}
