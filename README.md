@@ -1,4 +1,4 @@
-# Django Weekend Adventure 
+## Django Weekend Adventure 
 
 I spent the weekend coding away, diving into Django
 
@@ -6,12 +6,14 @@ I had a blast building this little web app! 🎮
 
 This project is a simple Django application, but it’s packed with fun and a little bit of my weekend energy. 
 
-## What I Built 🛠
+### What I Built 🛠
 
 - A Django-powered web app with integrating Models
 - Simple, clean, and fun to work on 
 - It has a clean and solid ar chitecture
 
-## My View
+### My View
 
-I really encourage to try out my weekend creation (and I highly encourage it 😎), follow these steps:
+I really encourage to try out my weekend creation (and I highly encourage it 😎)
+
+### Tech Stack
