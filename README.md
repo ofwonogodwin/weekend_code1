@@ -14,7 +14,7 @@ This project is a simple Django application, but it’s packed with fun and a li
 
 ### My View
 
-I really encourage to try out my weekend creation (and I highly encourage it 😎)
+I really encourage you all to always tryout new staff on weekends  (and I highly encourage it 😎)
 
 ### Tech Stack
 >> Django (BackEnd)<br>
