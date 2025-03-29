@@ -4,6 +4,7 @@ from django.db import models
 class trial(models.Model):
     title =models.CharField(max_length=225)
     author =models.CharField(max_length=45)
+    age =models.IntegerField()
     content =models.TextField()
     thumbnail =models.ImageField(upload_to="thumbnail/",default="default.png")
     dateCreated =models.DateTimeField(auto_now_add=True)
