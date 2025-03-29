@@ -17,3 +17,6 @@ This project is a simple Django application, but it’s packed with fun and a li
 I really encourage to try out my weekend creation (and I highly encourage it 😎)
 
 ### Tech Stack
+>> Django (BackEnd)<br>
+>> Html/ CSS (FrontEnd)<br>
+>> Default DataBase
